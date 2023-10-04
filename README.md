@@ -9,7 +9,7 @@ Projeto que simula um relógio.
 
 ## Visão Geral
 
-Nesse projeto o relógio acompanha o horário da máquina local que o acessou e move os ponteiros a partir disso. O site não está responsivo.
+Nesse projeto o relógio acompanha o horário da máquina local que o acessou e move os ponteiros a partir disso. O site está totalmente responsivo.
 
 ## Tecnologias Usadas
 
