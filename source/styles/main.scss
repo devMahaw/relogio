@@ -119,4 +119,29 @@ body {
             }
         }
     }
+
+    @media (max-width: 767px) {
+        main {
+            .clock {
+                min-width: 300px;
+                min-height: 300px;
+
+                .number {
+                    font-size: 1rem;
+                }
+
+                .second-hand {
+                    height: 115px;
+                }
+    
+                .minute-hand {
+                    height: 95px;
+                }
+    
+                .hour-hand {
+                    height: 70px;
+                }
+            }
+        }
+    }
 }
